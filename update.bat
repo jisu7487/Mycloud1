@@ -1,3 +1,3 @@
 git add --all
-git commit -m "start hi"
+git commit -m "add Bulma CS"
 git push -u origin master
