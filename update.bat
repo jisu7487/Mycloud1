@@ -1,3 +1,3 @@
 git add --all
-git commit -m "bulma.html 추가"
+git commit -m "add bulma.html "
 git push -u origin
