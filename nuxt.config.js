@@ -3,14 +3,14 @@ module.exports = {
    ** Headers of the page
    */
   head: {
-    title: "강냥이의 동행",
+    title: "음식 칼로리를 알아보자",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
         hid: "description",
         name: "description",
-        content: "강아지와 고양이의 동행"
+        content: "냠냠"
       }
     ],
     link: [
